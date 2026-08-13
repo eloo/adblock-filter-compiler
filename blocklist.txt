@@ -1,6 +1,6 @@
 # Title: Ghostnetic's Blocklist
 # Description: Python script that generates adblock filters.
-# Last Modified: 2026-08-12 18:56:38 UTC
+# Last Modified: 2026-08-13 18:57:57 UTC
 # Domain Count: 757985
 # Duplicates Removed: 101283
 # Domains Compressed: 133077
